@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1561468296 source:d:\dhuo creative\c++\pertemuan3.\main.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+

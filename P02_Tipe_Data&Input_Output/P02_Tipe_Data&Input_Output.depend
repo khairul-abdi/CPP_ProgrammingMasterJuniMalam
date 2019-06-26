@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1561111888 source:d:\dhuo creative\c++\p02_tipe_data&input_output\main.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+
