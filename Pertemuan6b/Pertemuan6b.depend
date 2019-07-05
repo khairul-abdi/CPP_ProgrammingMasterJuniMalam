@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1562074455 source:d:\dhuo creative\c++\pelatihan\pertemuan6b\main.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+	<stdlib.h>
+
